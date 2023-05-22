@@ -23,12 +23,12 @@ export default class App extends React.Component {
 
     fullStyle = [
         `/*
-* Hi。宝贝！
-* 这么久了。还没和宝贝说过我的工作呢！
-* 我是个前端工程师。俗称程序员。网页相关。
-* 如这个页面。就是个什么也没有的网页。
-* 我的工作就是给这种空白的页面加点儿东西。
-* 嗯。说起来手机和电脑还得区分一下。
+* Hi, Yico
+* 看到TAYOUZI，想和你介绍一下我的工作
+* 我是个工程师，俗称程序员，data science、cognitive science相关
+* 比如这个页面。就是个什么也没有的网页
+* 我可以给这种空白的页面加点儿东西
+* 说起来手机和电脑还得区分一下
 * 你现在用的是。。。${isPc ? '电脑' : '手机'}
 */
 
@@ -55,7 +55,7 @@ body, html {
   padding: 10px;
 }
 
-/* 这些代码颜色都一样。加点儿高亮区别来 */
+/* 这些代码颜色都一样，加点儿高亮区别来 */
 .token.selector{ color: rgb(133,153,0) }
 .token.property{ color: rgb(187,137,0) }
 .token.punctuation{ color: yellow }
@@ -154,7 +154,7 @@ html{
 }
 /*
 * Ok，完成！
-* 宝贝，七夕快乐！
+* 祝你巡演顺利，天天开心！
 */
 
 `
