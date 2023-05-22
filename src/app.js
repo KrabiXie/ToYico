@@ -153,7 +153,7 @@ html{
   animation: throb 1s infinite linear;
 }
 /*
-* Ok，完成！
+* 完成！
 * 祝你巡演顺利，天天开心！
 */
 
